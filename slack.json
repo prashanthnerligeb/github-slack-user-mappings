@@ -2752,11 +2752,17 @@
       "github": "ladamson-hmcts",
       "slack": "U04DU2H2EVA"
     },
-    { "github": "rapolaskaseliscgi",
+    {
+      "github": "rapolaskaseliscgi",
       "slack": "U052LCB1YER"
     },
-    { "github": "ben-james-hmcts",
+    {
+      "github": "ben-james-hmcts",
       "slack": "U056DL4GK1V"
+    },
+    {
+      "github": "muradalamv1",
+      "slack": "U03KC51CXB8"
     }
   ]
 }
