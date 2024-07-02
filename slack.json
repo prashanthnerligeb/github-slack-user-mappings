@@ -1,6 +1,6 @@
 {
   "users": [
-    { 
+    {
       "github": "al-hmcts",
       "slack": "U06F5NMRSR3"
     },
@@ -11,7 +11,7 @@
     {
       "github": "viktoriyabogdanova",
       "slack": "U04GLAG476D"
-    }, 
+    },
     {
       "github": "abigailsmith97",
       "slack": "U05R940LRFB"
@@ -2944,7 +2944,7 @@
       "github": "uchennannamani",
       "slack": "U05D8SK9VUP"
     },
-	{
+    {
       "github": "kalachandrasekar1",
       "slack": "U04598VJH8Q"
     },
@@ -3092,7 +3092,8 @@
       "github": "AntonyLeons",
       "slack": "U05S3B1RKBQ"
     },
-    { "github": "prekshajainHMCTS",
+    {
+      "github": "prekshajainHMCTS",
       "slack": "U05LXLDBZA5"
     },
     {
@@ -3179,15 +3180,15 @@
       "github": "patelila",
       "slack": "U063MKMKRK6"
     },
-   {
+    {
       "github": "kannan-v-hmcts",
       "slack": "U061KN6TKPF"
     },
-   {
+    {
       "github": "mukhtar-hmcts",
       "slack": "U060J2B7T8D"
     },
-   {
+    {
       "github": "DeclanClarkeCGI",
       "slack": "U062M80ST8V"
     },
@@ -3291,7 +3292,8 @@
       "github": "shahedhmcts",
       "slack": "U06JSG0PRJA"
     },
-    { "github": "pallavijustice",
+    {
+      "github": "pallavijustice",
       "slack": "U06EP8A3J2E"
     },
     {
@@ -3370,23 +3372,23 @@
       "github": "philhead1",
       "slack": "U0675R8HTEK"
     },
-    {  
+    {
       "github": "tomfairclough1",
       "slack": "U06RBDG86G4"
     },
-    {  
+    {
       "github": "jordankainos",
       "slack": "U03S1LRUVU3"
     },
-    {  
+    {
       "github": "neha-aggarw",
       "slack": "U02P253SD6D"
     },
-    {  
+    {
       "github": "mananpatel26",
       "slack": "U043UKT4E9E"
     },
-    {  
+    {
       "github": "Mike-Brain",
       "slack": "U06TNTQ5JV7"
     },
@@ -3425,6 +3427,10 @@
     {
       "github": "TomReed",
       "slack": "U06491GTRBJ"
+    },
+    {
+      "github": "Johns293",
+      "slack": "D04DT2QPBKQ"
     }
   ]
 }
